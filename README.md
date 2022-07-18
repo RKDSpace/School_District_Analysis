@@ -20,3 +20,5 @@ The analysis was further done to look at how school spending was affected per st
 ![image](https://user-images.githubusercontent.com/106719954/179452865-a8cc9f82-e75c-4c0c-89b7-efce3620d019.png)
 When looking at scores by school size Thomas High School was affected as they were one of the smaller schools in the district:
 ![image](https://user-images.githubusercontent.com/106719954/179452910-8a5ee58b-145f-4813-a81c-e9d39e13baa6.png)
+# Summary: 
+The overall analysis has reflected that with the ninth-grade scores replaced with NaNs Thomas High Schools overall performance improved. As a charter school, compared with other charter schools the analysis was not complete at this point. 
